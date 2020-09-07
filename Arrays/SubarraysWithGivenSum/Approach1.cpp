@@ -1,3 +1,5 @@
+// This is a very naive appraoch having complexity O(N^2)
+
 #include <iostream>
 using namespace std;
 
